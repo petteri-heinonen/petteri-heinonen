@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @petteri-heinonen
+- 👋 Hi, I’m Petteri Heinonen (@petteri-heinonen)
 - 👀 I’m interested in improving my coding skills, and get deeper understanding of modern development practices, tools, and technology.
 - 🌱 I’m currently learning Python, Apex, Ruby and Visual Studio Code.
 - 💞️ I’m looking to collaborate on anything Salesforce-related.
